@@ -56,7 +56,7 @@ I build with AI coding assistants and put my effort where it matters most to me:
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" />
 <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+<img src="https://img.shields.io/badge/CSS3-0d1117?labelColor=0d1117&style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
 </td>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ I build with AI coding assistants and put my effort where it matters most to me:
 <tr>
 <td align="right"><b>AI</b></td>
 <td align="left">
-<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-0d1117?style=flat-square&logoColor=white" alt="MCP" />
+<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-0d1117?labelColor=0d1117&style=flat-square&logoColor=white" alt="MCP" />
 <img src="https://img.shields.io/badge/RAG-Retrieval_%26_Benchmarks-0d1117?style=flat-square&logoColor=white" alt="Retrieval" />
 <img src="https://img.shields.io/badge/Claude_Code-0d1117?style=flat-square&logo=anthropic&logoColor=D97757" alt="Claude Code" />
 </td>
@@ -81,7 +81,7 @@ I build with AI coding assistants and put my effort where it matters most to me:
 <td align="right"><b>Web</b></td>
 <td align="left">
 <img src="https://img.shields.io/badge/PWA-Service_Worker-0d1117?style=flat-square&logo=pwa&logoColor=5A0FC8" alt="PWA" />
-<img src="https://img.shields.io/badge/Vanilla_ES_Modules-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="ES Modules" />
+<img src="https://img.shields.io/badge/Vanilla_ES_Modules-0d1117?labelColor=0d1117&style=flat-square&logo=javascript&logoColor=F7DF1E" alt="ES Modules" />
 </td>
 </tr>
 </table>
@@ -150,7 +150,7 @@ A **library management system in C** using only the standard library: book and u
 Other projects are still private while they take shape. Public repositories will appear here as they are ready.
 
 <a href="https://github.com/GabezFC?tab=repositories">
-<img src="https://img.shields.io/badge/All_Repositories-161b22?style=flat-square&logo=github&logoColor=58a6ff" alt="All repositories" />
+<img src="https://img.shields.io/badge/All_Repositories-161b22?labelColor=161b22&style=flat-square&logo=github&logoColor=58a6ff" alt="All repositories" />
 </a>
 
 </td>
@@ -219,6 +219,6 @@ Other projects are still private while they take shape. Public repositories will
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:1f6feb,60:161b22,100:0d1117&section=footer" alt="footer" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=GabezFC&label=Profile+views&color=1f6feb&style=flat-square&base=0" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=GabezFC&label=Views&color=1f6feb&style=flat-square&base=0" alt="Profile views" />
 
 </div>
