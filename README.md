@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,60:161b22,100:1f6feb&text=Gabriel&fontColor=e6edf3&fontSize=60&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20Python%20%C2%B7%20AI%20Tooling&descSize=18&descAlignY=60&descColor=8b949e" alt="Gabriel - Software Engineering Student" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,60:161b22,100:1f6feb&section=header" alt="" width="100%" />
+
+<h1>Gabriel</h1>
+
+<p><b>Software Engineering Student</b> &nbsp;•&nbsp; Python &nbsp;•&nbsp; AI Tooling &nbsp;•&nbsp; Backend</p>
 
 <a href="https://github.com/GabezFC">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&width=560&height=40&lines=Software+Engineering+student;Building+local-first+AI+tooling;Measuring+before+claiming;Learning+by+shipping" alt="Typing animation" />
 </a>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Based_in-Sapezal%2C_MT_%E2%80%A2_Brazil-161b22?style=flat-square&logo=googlemaps&logoColor=58a6ff" alt="Location" />
-<img src="https://img.shields.io/badge/Focus-Python_%C2%B7_AI_Tooling_%C2%B7_Backend-161b22?style=flat-square&logo=python&logoColor=58a6ff" alt="Focus" />
+<sub>Sapezal, Mato Grosso • Brazil</sub>
 
 </div>
 
@@ -193,7 +194,7 @@ Other projects are still private while they take shape. Public repositories will
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabezFC&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Contribution graph" width="100%" />
+<img height="170" src="https://streak-stats.demolab.com/?user=GabezFC&theme=tokyonight&hide_border=true&background=0d1117" alt="Contribution streak" />
 
 </div>
 
