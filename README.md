@@ -56,7 +56,6 @@ I build with AI coding assistants and put my effort where it matters most to me:
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 <img src="https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=A8B9CC" alt="C" />
 <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-0d1117?labelColor=0d1117&style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
 </td>
 </tr>
 <tr>
@@ -80,7 +79,7 @@ I build with AI coding assistants and put my effort where it matters most to me:
 <tr>
 <td align="right"><b>Web</b></td>
 <td align="left">
-<img src="https://img.shields.io/badge/PWA-Service_Worker-0d1117?style=flat-square&logo=pwa&logoColor=5A0FC8" alt="PWA" />
+<img src="https://img.shields.io/badge/PWA-Service_Worker-0d1117?style=flat-square&logo=pwa&logoColor=a371f7" alt="PWA" />
 <img src="https://img.shields.io/badge/Vanilla_ES_Modules-0d1117?labelColor=0d1117&style=flat-square&logo=javascript&logoColor=F7DF1E" alt="ES Modules" />
 </td>
 </tr>
@@ -149,9 +148,7 @@ A **library management system in C** using only the standard library: book and u
 
 Other projects are still private while they take shape. Public repositories will appear here as they are ready.
 
-<a href="https://github.com/GabezFC?tab=repositories">
-<img src="https://img.shields.io/badge/All_Repositories-161b22?labelColor=161b22&style=flat-square&logo=github&logoColor=58a6ff" alt="All repositories" />
-</a>
+<a href="https://github.com/GabezFC?tab=repositories"><b>Browse all repositories →</b></a>
 
 </td>
 </tr>
@@ -189,10 +186,7 @@ Other projects are still private while they take shape. Public repositories will
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GabezFC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabezFC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
-
-<br/><br/>
 
 <img height="170" src="https://streak-stats.demolab.com/?user=GabezFC&theme=tokyonight&hide_border=true&background=0d1117" alt="Contribution streak" />
 
@@ -219,6 +213,5 @@ Other projects are still private while they take shape. Public repositories will
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:1f6feb,60:161b22,100:0d1117&section=footer" alt="footer" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=GabezFC&label=Views&color=1f6feb&style=flat-square&base=0" alt="Profile views" />
 
 </div>
