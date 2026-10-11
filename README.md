@@ -72,14 +72,14 @@ I build with AI coding assistants and put my effort where it matters most to me:
 <td align="right"><b>AI</b></td>
 <td align="left">
 <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-0d1117?labelColor=0d1117&style=flat-square&logoColor=white" alt="MCP" />
-<img src="https://img.shields.io/badge/RAG-Retrieval_%26_Benchmarks-0d1117?style=flat-square&logoColor=white" alt="Retrieval" />
+<img src="https://img.shields.io/badge/RAG-Retrieval_%26_Benchmarks-0d1117?labelColor=0d1117&style=flat-square&logoColor=white" alt="Retrieval" />
 <img src="https://img.shields.io/badge/Claude_Code-0d1117?style=flat-square&logo=anthropic&logoColor=D97757" alt="Claude Code" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>Web</b></td>
 <td align="left">
-<img src="https://img.shields.io/badge/PWA-Service_Worker-0d1117?style=flat-square&logo=pwa&logoColor=a371f7" alt="PWA" />
+<img src="https://img.shields.io/badge/PWA-Service_Worker-0d1117?labelColor=0d1117&style=flat-square&logoColor=white" alt="PWA" />
 <img src="https://img.shields.io/badge/Vanilla_ES_Modules-0d1117?labelColor=0d1117&style=flat-square&logo=javascript&logoColor=F7DF1E" alt="ES Modules" />
 </td>
 </tr>
